@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f31eec46b1c92945bed398c9d9081ee, type: 3}
+  m_Name: Level19
+  m_EditorClassIdentifier: 
+  nodes:
+  - {x: 5.9602013, y: 1.1331043}
+  - {x: 5.9602013, y: -1.133104}
+  - {x: 5.9602013, y: -3.399313}
+  - {x: 1.9602013, y: -3.399313}
+  - {x: 1.9602013, y: -1.133104}
+  - {x: 1.9602013, y: 1.1331043}
+  - {x: 1.9602013, y: 3.3993134}
+  - {x: -2.0397987, y: 3.3993134}
+  - {x: -2.0397987, y: 1.1331043}
+  - {x: -2.0397987, y: -1.133104}
+  - {x: -2.0397987, y: -3.399313}
+  - {x: -6.03, y: -3.399313}
+  - {x: -6.0299997, y: -1.133104}
+  - {x: -6.03, y: 1.1331043}
+  keyDots:
+  - {x: -3.45, y: -1.87}
+  - {x: -3.83, y: 0.14}
+  - {x: 3.83, y: 0.14}
+  - {x: 3.45, y: -1.87}
+  - {x: 0, y: 2.4407234}
+  falseDots:
+  - {x: 0, y: 0}
+  - {x: 0, y: -2.16}
+  - {x: -4.7, y: -2.78}
+  - {x: 4.7, y: -2.78}
+  rogueCount: 0
+  portal: {x: -4.691619, y: 3.495172}
+  maxTime: 25
+  minTime: 15

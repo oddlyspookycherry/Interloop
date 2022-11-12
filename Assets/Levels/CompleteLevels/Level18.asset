@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f31eec46b1c92945bed398c9d9081ee, type: 3}
+  m_Name: Level18
+  m_EditorClassIdentifier: 
+  nodes:
+  - {x: 0, y: 3.95}
+  - {x: 0, y: -3.95}
+  - {x: -7.26, y: 0}
+  - {x: 7.26, y: 0}
+  keyDots:
+  - {x: -3.1181076, y: 1.6224356}
+  - {x: 3.118108, y: -1.622436}
+  falseDots:
+  - {x: 3.118108, y: 1.622436}
+  - {x: -3.118108, y: -1.622436}
+  rogueCount: 0
+  portal: {x: -4.8683105, y: -3.370053}
+  maxTime: 15
+  minTime: 7

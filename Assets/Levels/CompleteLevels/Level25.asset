@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f31eec46b1c92945bed398c9d9081ee, type: 3}
+  m_Name: Level25
+  m_EditorClassIdentifier: 
+  nodes:
+  - {x: -5.3741674, y: 2.6716216}
+  - {x: -2.4888606, y: -3.7}
+  - {x: 0, y: 1.3697902}
+  - {x: 2.488861, y: -3.7}
+  - {x: 5.374167, y: 2.6716216}
+  keyDots:
+  - {x: 0, y: -2.370669}
+  - {x: 0, y: 0.009790242}
+  falseDots:
+  - {x: -2.2598677, y: -0.55020976}
+  - {x: 2.259868, y: -0.55020976}
+  - {x: 0, y: 2.534105}
+  - {x: -5.328368, y: 1.0672566}
+  - {x: -5.328368, y: 0.009790242}
+  - {x: 5.328368, y: 1.0672566}
+  - {x: 5.328368, y: 0.009790242}
+  - {x: -6.38, y: 3.1597903}
+  - {x: -4.5000005, y: 3.2097905}
+  - {x: -5.42, y: 3.8497903}
+  - {x: 4.43, y: 3.1597903}
+  - {x: 5.39, y: 3.8497903}
+  - {x: 6.3099995, y: 3.2097905}
+  portal: {x: -5.694757, y: -2.4165082}
+  maxTime: 25
+  minTime: 15
