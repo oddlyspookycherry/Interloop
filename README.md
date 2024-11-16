@@ -9,4 +9,4 @@ Most notably, a novel algorithm was created that efficiently checks whether an a
 
 Available for Android on Google Play: https://play.google.com/store/apps/details?id=com.SpookyProductions.Interloop&hl=en_US&gl=US
 
-![изображение](https://user-images.githubusercontent.com/84584430/218340480-9aa2cdc2-244e-4fec-9e34-7bc67ee53453.png)
+https://github.com/user-attachments/assets/01cfe6a1-42ba-47e3-86ce-0f2837f6134a
